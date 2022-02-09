@@ -38,3 +38,4 @@ This is also a good opportunity to save a backup of your project to somewhere sa
 ## What is project ID 1? {#what-is-1}
 
 Curious people have visited https://turbowarp.org/1 or https://llk.github.io/scratch-gui/develop/#1 and found a strange project. That's just what the Scratch API returns when you ask for the project with ID 1.
+Plz check out https://scratch.mit.edu/projects/641512063/
